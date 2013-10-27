@@ -18,3 +18,6 @@ jordan = Player.new('michael jordan', "7'3")
 bulls = Team.new(jordan, pippen)
 
 bulls.player1.height
+
+
+You're able to initialize a new player inside of an object and it'll retain all those attributes of a player within the player.
